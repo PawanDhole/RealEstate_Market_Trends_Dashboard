@@ -93,6 +93,9 @@ The goal is to provide valuable business insights such as property price variati
 * City
 * Property Type
 * Date Range
+  
+<img width="596" height="336" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/eafde264-1456-4364-ab9d-46d7db05b8b3" />
+
 
 ---
 
@@ -107,6 +110,8 @@ The goal is to provide valuable business insights such as property price variati
 ### KPI
 
 * Price Growth % Compared to Last Year
+
+<img width="574" height="338" alt="Property Trends Analysis" src="https://github.com/user-attachments/assets/dd739a58-73bb-4179-95d3-7b3e5cb5a0a8" />
 
 ---
 
@@ -123,6 +128,8 @@ The goal is to provide valuable business insights such as property price variati
 * Best Performing Agent
 * Average Revenue Per Agent
 
+<img width="541" height="325" alt="Agent Performance Dashboard" src="https://github.com/user-attachments/assets/29968d61-1ad4-498c-bea3-0eaedc4036dc" />
+
 ---
 
 ## Page 4 — Customer Insights & Demand
@@ -138,6 +145,8 @@ The goal is to provide valuable business insights such as property price variati
 * Total Customers
 * Average Budget
 * Top Preferred Property Type
+
+<img width="578" height="345" alt="Customer Insights   Demand" src="https://github.com/user-attachments/assets/53fcabb1-e2a6-4d16-8fa7-c26a5722c8c1" />
 
 ---
 
@@ -160,18 +169,6 @@ This dashboard helps real estate businesses:
 * Built fully interactive dashboards with drill-down analysis
 * Automated KPI reporting using Power BI and SQL
 * Delivered real-time insights for business decisions
-
----
-
-## Dashboard Screenshots
-
-<img width="541" height="325" alt="Agent Performance Dashboard" src="https://github.com/user-attachments/assets/29968d61-1ad4-498c-bea3-0eaedc4036dc" />
-
-<img width="578" height="345" alt="Customer Insights   Demand" src="https://github.com/user-attachments/assets/53fcabb1-e2a6-4d16-8fa7-c26a5722c8c1" />
-
-<img width="596" height="336" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/eafde264-1456-4364-ab9d-46d7db05b8b3" />
-
-<img width="574" height="338" alt="Property Trends Analysis" src="https://github.com/user-attachments/assets/dd739a58-73bb-4179-95d3-7b3e5cb5a0a8" />
 
 ---
 
