@@ -5,7 +5,7 @@
 This project focuses on analyzing and visualizing real estate market trends using SQL for database management and Power BI for interactive dashboard creation.
 
 The goal is to provide valuable business insights such as property price variations, sales performance, customer demand patterns, and agent performance across multiple cities and states.
-<a href="https://github.com/PawanDhole/RealEstate_Market_Trends_Dashboard/blob/main/RealEstateDashboards.png"> SQL </a>
+<a href="https://github.com/PawanDhole/RealEstate_Market_Trends_Dashboard/blob/main/RealEstateDashboards.png"> Project Overview </a>
 
 <img width="590" height="325" alt="RealEstateDashboards" src="https://github.com/user-attachments/assets/2733e3d4-2bc8-4c56-ac72-0872cefe3f76" />
 
